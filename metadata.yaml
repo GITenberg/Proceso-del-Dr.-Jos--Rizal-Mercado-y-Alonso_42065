@@ -1,0 +1,34 @@
+_repo: Proceso-del-Dr.-Jos--Rizal-Mercado-y-Alonso_42065
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42065-h/images/backcover.jpg
+creator:
+  editor:
+    agent_name: De los Santos, Epifanio
+    aliases:
+    - Santos Cristóbal, Epifanio de los
+    - Santos Cristobal, Epifanio de los
+    - De los Santos, Panyong
+    - Los Santos, Epifanio de
+    - Santos, Epifanio de los
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '6107'
+    url: http://www.gutenberg.org/2009/agents/6107
+description: ''
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42065'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rizal, José, 1861-1896'
+- !lcc 'KP'
+- !lcsh 'Trials (Political crimes and offenses) -- Philippines'
+- !lcc 'DS'
+title: Proceso del Dr. José Rizal Mercado y Alonso
+url: http://www.gutenberg.org/ebooks/42065
